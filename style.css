@@ -25,6 +25,10 @@
 .cards.blackish-blue{
     background-color: hsl(219, 29%, 14%);
 }
+.cards.white{
+    background-color: hsl(0, 0%, 100%);
+    color: black;
+}
 .cards .quotes{
     position: absolute;
     right: 20px;
@@ -45,5 +49,4 @@
 }
 .cards p{
     font-size: 17px;
-
 }
